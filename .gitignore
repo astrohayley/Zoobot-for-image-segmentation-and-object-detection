@@ -175,3 +175,9 @@ cython_debug/
 
 # other stuff
 .DS_Store
+
+# images
+data/train_images/Euclid_train_images_424x424/
+data/train_images/HSC_CLAUDS_train_set_wide_6channel_images/
+data/train_images/mask_train_images_masks/
+data/train_images/mask_train_images_pngs/
